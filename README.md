@@ -1,6 +1,7 @@
 # car-rental-app-ui
 Mobile UI design for a car rental application
 
+
 ## Overview
 This project presents the UI design for a car rental mobile application.
 The focus is on creating a clear and user-friendly booking experience.
@@ -21,8 +22,13 @@ The focus is on creating a clear and user-friendly booking experience.
 - Consistent visual style
 - User-centered booking flow
 
+## Screens
+![UI Screens](designs/all-screens1.png) 
+![UI Screens](designs/all-screens2.png)
+
 ## Figma Design
 Link available in `figma-link.txt`.
+
 
 
 
